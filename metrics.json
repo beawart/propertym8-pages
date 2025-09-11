@@ -1,0 +1,36 @@
+[
+  {
+    "id": "45-sample-ave-coburg-vic",
+    "address": "45 Sample Ave, Coburg VIC",
+    "asking_price": 850000,
+    "estimated_market_value": 830000,
+    "gross_yield_pct": 4.59,
+    "net_yield_pct": 3.61,
+    "vacancy_rate_pct": 1.6,
+    "growth_5y": 0.36,
+    "overlays_risk": {
+      "flood": false,
+      "bushfire": false,
+      "heritage": false,
+      "zoning": "GRZ1",
+      "overlays_notes": "Parking overlay applies."
+    }
+  },
+  {
+    "id": "12-river-rd-brisbane-qld",
+    "address": "12 River Rd, Brisbane QLD",
+    "asking_price": 720000,
+    "estimated_market_value": 740000,
+    "gross_yield_pct": 4.48,
+    "net_yield_pct": 3.14,
+    "vacancy_rate_pct": 2.8,
+    "growth_5y": 0.29,
+    "overlays_risk": {
+      "flood": true,
+      "bushfire": false,
+      "heritage": false,
+      "zoning": "LMR2",
+      "overlays_notes": "Partially in flood hazard zone."
+    }
+  }
+]
